@@ -1,0 +1,21 @@
+language: node_js
+node_js: 
+  - "10"
+
+branches:
+  only:
+    - master
+
+before_script:
+  - yarn global add firebase-tools
+  - npm install
+  - npx gatsby build
+
+script :
+  - firebase deploy --token "$FIREBASE_TOKEN"
+after_success:  
+
+notifications:
+  email :
+    on_failure: tonmanna@gmail.com
+    on_success: tonmanna@gmail.com
