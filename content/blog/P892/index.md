@@ -1,7 +1,7 @@
 ---
 title: การตรวจหาคนแอบใช้เครื่องเราเพื่อ ยิง Spam ไปยังชาวบ้าน
 date: 2017-03-03T19:43:58
-description: ขั้นแรก ต้องหาก่อนว่าเราโดนที่ไหน รู่รั่ว หรือทางเข้
+description: ขั้นแรก ต้องหาก่อนว่าเราโดนที่ไหน รู่รั่ว หรือทางเข้ามีมาก มายอย่างกรณีแรกมากจาก GGI- Perl นี่ อันนี้ แนะนำให้ปิด เพราะไม่น่าจะมีคนเขียน Perl แล้วนะถ้าเป็น Hosting ปกติถ้าใช้ Direct Admin ก็ทำตามนี้เล
 ---
 
 <img class="aligncenter size-full wp-image-893" src="http://www.greanapp.com/wp-content/uploads/2017/03/spam.png" alt="" width="256" height="256" />

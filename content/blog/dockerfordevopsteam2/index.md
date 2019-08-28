@@ -1,8 +1,7 @@
 ---
 title: Docker for DevOps Team. ใช้กับทีมพัฒนาได้ง่ายๆ ตอนที่ 2
 date: 2016-07-26T18:04:51
-description: <strong>Docker for DevOps</strong>
-หลังจาก ต
+description: Docker for DevOpsหลังจาก ตอนแรก ที่เราใช้ Docker ไปกับ แบบ Command Line โดยรุ่นที่ผมใช้ตอนนี้คือ Docker version 1.11.0, build 4dc5990 ซึ่งเราจะทำให้มันเป็น Startup config ตอน Boot เครื่องจะได้ไม่ต้องม
 ---
 
 <img class="alignnone size-full wp-image-630" src="http://www.greanapp.com/wp-content/uploads/2016/04/docker.png" alt="docker" width="1650" height="559" />

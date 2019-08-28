@@ -1,9 +1,7 @@
 ---
 title: AngularJS 1.2 ตัวเต็มออกแล้วนะครับ 7/11/2013
 date: 2013-11-11T23:57:53
-description: จริงๆ แล้วก็ออกมาซักพักล่ะสำหรับตัว Release  ล่าสุดในตอนนี้ สำหรับ AngularJS นี้
-
-ปัญหาที่พบนะครับ หลังจาก 1.15 มาเป็
+description: จริงๆ แล้วก็ออกมาซักพักล่ะสำหรับตัว Release  ล่าสุดในตอนนี้ สำหรับ AngularJS นี้ปัญหาที่พบนะครับ หลังจาก 1.15 มาเป็น 1.21. Filed _xxxx(ที่มี underscore นำหน้า)  ห้ามใช้อีกต่อไปเพราะเขาจะใช้เป็น privat
 ---
 
 <a href="http://www.greanapp.com/wp-content/uploads/2013/11/copy-52735c80d4b98.png"><img class="size-medium wp-image-15 aligncenter" alt="copy-52735c80d4b98.png" src="http://www.greanapp.com/wp-content/uploads/2013/11/copy-52735c80d4b98-300x168.png" width="300" height="168" /></a>

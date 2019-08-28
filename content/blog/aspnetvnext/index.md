@@ -1,7 +1,7 @@
 ---
 title: Asp.NET VNext เหล้าใหม่ในขวดใหม่ มาช้าไปมั้ย (OSX / LINUX)
 date: 2016-08-02T03:05:10
-description: เป็นที่ทราบกันดีมานานว่าเทคโนโลยี .NET ทั้งตระกูลนั่นผูกขาดให้รันทำงานได้ดีบน Windows System เท่านั้น
+description:    เป็นที่ทราบกันดีมานานว่าเทคโนโลยี .NET ทั้งตระกูลนั่นผูกขาดให้รันทำงานได้ดีบน Windows System เท่านั้นจนกระทั่งเกิด Mono Project ที่อนุญาติให้ .NET สามารถทำงานได้บน Platform อื่น ซึ่งผมเองก็เคยใช้ M
 ---
 
    <a href="http://www.greanapp.com/wp-content/uploads/2014/11/3652.image_thumb_00F147A2.png"><img src="http://www.greanapp.com/wp-content/uploads/2014/11/3652.image_thumb_00F147A2.png" alt="3652.image_thumb_00F147A2" width="856" height="473" class="alignnone size-full wp-image-213" /></a>

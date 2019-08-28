@@ -1,7 +1,7 @@
 ---
 title: Docker for DevOps back to basic from someone images to own images จริงๆ น่าจะเขียนบทความนี้ก่อนเนอะ
 date: 2016-07-12T01:18:56
-description: จริงๆ ผมก็อาจเขียนบทความอื่นเร็วเกินไปโดยลืมเ
+description: จริงๆ ผมก็อาจเขียนบทความอื่นเร็วเกินไปโดยลืมเกริ่น บทความเบื้องต้น น้องในทีมที่ผมดูแลหลายๆ คนยังคง สับสนกับพื้นฐานของ Docker โดยวันนี้ เราจะมาเรียนคำสั่งพื้นฐานกันก่อนเพราะพื้นฐานสำคัญเสมอครับ เรามาเร
 ---
 
 <img src="http://www.greanapp.com/wp-content/uploads/2016/04/docker.png" alt="docker" width="1650" height="559" class="alignnone size-full wp-image-630" />

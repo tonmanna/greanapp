@@ -1,7 +1,7 @@
 ---
 title: Git มันง่ายจริงๆ เหรอ ก็ง่ายนะ อันนี้แบบทำงานคนเดียว ตอนหน้า แบบทำเป็นทีมแล้วกัน
 date: 2016-08-02T03:02:48
-description: <strong>git</strong>คำสั่ง Git ที่ควรจะต้องจำได้ เร
+description: gitคำสั่ง Git ที่ควรจะต้องจำได้ เรียงไปตามงานที่ทำเลยแล้วกัน Git อย่างที่รู้กัน ใช้ทำ Version Control มีทั้งแบบ Public และ Local หรือ Private หรือจะตั้ง Server เองด้วย Gitlab ก็สามารถทำได้ง่ายๆ การทำง
 ---
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/512px-Git-logo.svg.png" width="512" height="214" class="alignnone" />

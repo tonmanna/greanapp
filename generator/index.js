@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
   password: "password",
   database: "greanapp",
   ssl: false,
-  debug: true
+  debug: true,
 })
 connection.connect(err => {
   connection.query(
@@ -19,8 +19,7 @@ connection.connect(err => {
       } else {
         results.map(result => {
           let dirname = folderName(result)
-
-          fs.mkdirSync(dirname)
+          //fs.mkdirSync(dirname)
           let filename = dirname + "/index.md"
           var content = createContent(result)
           fs.writeFileSync(filename, content)
@@ -32,28 +31,27 @@ connection.connect(err => {
 })
 
 function folderName({ post_name, ID }) {
-  var result = decodeURI(post_name).match(/[a-zA-Z0-9]+/g)  
-  var pathPrefix = "../content/blog/";
-  if(result!=null){
+  var result = decodeURI(post_name).match(/[a-zA-Z0-9]+/g)
+  var pathPrefix = "../content/blog/"
+  if (result != null) {
     result = result.join("")
-    var path = pathPrefix + result;
-    if(fs.existsSync(path) && result != undefined){
-      result = path + ID;
-    }else{
-      result = path;
-    }
-  }else{
-    result = pathPrefix + "P" + ID;
+    var path = pathPrefix + result
+    // if(fs.existsSync(path) && result != undefined){
+    //   result = path + ID;
+    // }else{
+    result = path
+    //}
+  } else {
+    result = pathPrefix + "P" + ID
   }
-  return result;
-  
+  return result
 }
 
 function createContent({ post_title, post_modified, post_content }) {
   return `---
 title: ${post_title}
 date: ${formatdate(post_modified)}
-description: ${descriptionFiltter(post_content, 200)}
+description: ${descriptionFiltter(post_content, 100)}
 ---
 
 ${fillter(post_content)}
@@ -61,23 +59,20 @@ ${fillter(post_content)}
 }
 
 function descriptionFiltter(post_content, max) {
-  var result = sanitizeHtml(
-    post_content
-      .replace(/\r/, "")
-      .replace(/\n/, "")
-      .replace(/\r\n/, "")
-      .replace(/\t/, " ")
-      .trim()
-      .slice(0, max),
-    {
-      allowedTags: ["b", "i", "em", "strong"],
-    }
-  )
+  var content = post_content
+    .replace(/\r/g, "")
+    .replace(/\n/g, "")
+    .replace(/\r\n/g, "")
+    .replace(/\t/g, " ")
+    .replace(/:/g, "#")
+  var result = sanitizeHtml(content, {
+    allowedTags: [],
+  })
 
   if (result.length == 0) {
     return descriptionFiltter(post_content, max + 200)
   } else {
-    return result
+    return result.slice(0, 200)
   }
 }
 

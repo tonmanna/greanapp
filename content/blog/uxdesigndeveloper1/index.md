@@ -1,8 +1,7 @@
 ---
 title: UX Design ในมุมมองของ Developer ตอนที่ 1
 date: 2016-08-02T02:57:57
-description: 
-ผมทำงานเป็น Product Manager ของบริษัทนึงและทำงานด้าน Product development แบบเต็มตัวมาประมาณ 7 ปี ต้องยอมรับตามตรงว่าวันแรก เมื่อเริ่มทำผมและทีม ไม่เคยมองเรื
+description: ผมทำงานเป็น Product Manager ของบริษัทนึงและทำงานด้าน Product development แบบเต็มตัวมาประมาณ 7 ปี ต้องยอมรับตามตรงว่าวันแรก เมื่อเริ่มทำผมและทีม ไม่เคยมองเรื่องพวกนี้เลย จนเมื่อปีสองปี ที่ผ่านมานี่เริ่
 ---
 
 <a href="http://www.greanapp.com/wp-content/uploads/2015/03/DIY_UX.jpg"><img src="http://www.greanapp.com/wp-content/uploads/2015/03/DIY_UX.jpg" alt="DIY_UX" width="600" height="402" class="alignnone size-full wp-image-300" /></a>

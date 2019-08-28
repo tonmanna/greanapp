@@ -1,9 +1,7 @@
 ---
 title: Docker for DevOps Team. ใช้กับทีมพัฒนาได้ง่ายๆ เส้นทางเดินนี้ โรยด้วย CommandLine LoL
 date: 2016-07-26T18:05:09
-description: <strong>Docker for DevOps</strong>
-
- บทความ
+description: Docker for DevOps บทความนี้ เน้นการใช้งานในทีม DevOps แบบแชร์ Deamon และทำงานบน Ubuntu ไม่ได้ผ่าน Boot2Docker นะครับ ผมขอข้ามขั้นตอนการติดตั้งไปนะครับ ถ้าใครเพิ่งหัด Docker ให้ข้ามไปนะครับ วิธีติดตั้ง
 ---
 
 <img src="http://www.greanapp.com/wp-content/uploads/2016/04/docker.png" alt="docker" width="1650" height="559" class="alignnone size-full wp-image-630" />

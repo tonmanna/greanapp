@@ -1,7 +1,7 @@
 ---
 title: ลองเล่น Windows Server 2016 Technical Preview
 date: 2016-08-02T02:52:10
-description: Microsoft Windows Server 2016 ลองเล่นดูไปนิดหน่อยสิ่งแรกที่เจอ เลยคือ เครื่องมือหายไปไหนหมดว่า นี่มัน Server นะเฟ้ย
+description: Microsoft Windows Server 2016 ลองเล่นดูไปนิดหน่อยสิ่งแรกที่เจอ เลยคือ เครื่องมือหายไปไหนหมดว่า นี่มัน Server นะเฟ้ยก็หวังว่าจุดนี้ตอนออกของจริงน่าจะมีทางเข้าถึง Server ง่ายหน่อยนะเจ้า Server Managemen
 ---
 
 Microsoft Windows Server 2016 ลองเล่นดูไปนิดหน่อยสิ่งแรกที่เจอ เลยคือ เครื่องมือหายไปไหนหมดว่า นี่มัน Server นะเฟ้ย

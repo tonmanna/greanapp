@@ -1,7 +1,7 @@
 ---
 title: iTopPlus ประกาศรับสมัครงานหลายตำแหน่งในบริษัทครับ
 date: 2016-08-02T03:05:00
-description:  <strong>iTopPlus E-Marketing Service</strong>ผู้ให้บริการเว็บไซต์และบริการโฆษณาการตลาดออนไลน์ ที่ได้รับการแต่่ง
+description:  iTopPlus E-Marketing Serviceผู้ให้บริการเว็บไซต์และบริการโฆษณาการตลาดออนไลน์ ที่ได้รับการแต่่งตั้งจาก Google อย่างเป็นทางการ ตรวจสอบตามลิงค์ด้านล่างนี้เลยครับ Google AdWords พรีเมียมพาร์ทเนอร์สำหรับธ
 ---
 
 <a href="http://www.greanapp.com/wp-content/uploads/2014/11/itopplusV4_itoppluslogo-1.gif"><img src="http://www.greanapp.com/wp-content/uploads/2014/11/itopplusV4_itoppluslogo-1.gif" alt="itopplusV4_itoppluslogo (1)" width="247" height="79" class="alignnone size-full wp-image-231" /></a> 

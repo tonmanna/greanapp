@@ -1,13 +1,7 @@
 ---
 title: Reset Password Azure ด้วย Power Shell ครับ
 date: 2016-08-02T02:55:46
-description: ทำการค้นหา VM จาก Cloud Service Name และชื่อ VM$CSName = ""
-$VMName = ""
-$vm = Get-AzureVM -ServiceName $CSName -Name $VMName
-
-จากนั้นตั้งค่า 
-
-$UserNam
+description: ทำการค้นหา VM จาก Cloud Service Name และชื่อ VM$CSName = ""$VMName = ""$vm = Get-AzureVM -ServiceName $CSName -Name $VMNameจากนั้นตั้งค่า $UserName = ""$Password = ""$PrivateConfig = '{"username"#"' +
 ---
 
 ทำการค้นหา VM จาก Cloud Service Name และชื่อ VM

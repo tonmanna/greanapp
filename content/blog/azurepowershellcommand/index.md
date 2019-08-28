@@ -1,9 +1,7 @@
 ---
 title: เริ่มการใช้งาน Azure PowerShell Command
 date: 2016-08-02T03:04:49
-description: ขั้นต้นแรก Get-AzurePublishSettingsFile 
-
-เพื่อทำการ Get Subscription File Setting โดยหลังจาก Run คำสั่งนี้จะ Auto เปิดเว็บให้เรา Login เข้า Azure Subsc
+description: ขั้นต้นแรก Get-AzurePublishSettingsFile เพื่อทำการ Get Subscription File Setting โดยหลังจาก Run คำสั่งนี้จะ Auto เปิดเว็บให้เรา Login เข้า Azure Subscription Download Page ทันทีหลังจากเรา Login นะครับ
 ---
 
 ขั้นต้นแรก

@@ -1,7 +1,7 @@
 ---
 title: ทบทวนบทเรียน Android Development กับ Nanodegree ที่ Udacity ตอนที่หก
 date: 2016-08-02T02:57:21
-description: เป็นการเริ่ม Project Popular Movies โดยอาศัยการติดต่อ API ของ Themoviedb ใครที่สนใจใช้งานเพื่อการศึกษาสามารถสมัครใช้งานฟรีได้ โดยไปที่เว็บ http://www.themoviedb.or
+description: เป็นการเริ่ม Project Popular Movies โดยอาศัยการติดต่อ API ของ Themoviedb ใครที่สนใจใช้งานเพื่อการศึกษาสามารถสมัครใช้งานฟรีได้ โดยไปที่เว็บ http#//www.themoviedb.org/ โดยหลังจากสมัครแล้วกดยืนยันว่าเพื่
 ---
 
 เป็นการเริ่ม Project Popular Movies โดยอาศัยการติดต่อ API ของ Themoviedb ใครที่สนใจใช้งานเพื่อการศึกษาสามารถสมัครใช้งานฟรีได้ โดยไปที่เว็บ <a href="http://www.themoviedb.org/">http://www.themoviedb.org/</a> โดยหลังจากสมัครแล้วกดยืนยันว่าเพื่อใช้ในการศุึกษาเขาก็จะให้ Token มาเพื่อใช้ในการ Access นะครับ

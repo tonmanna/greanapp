@@ -1,7 +1,7 @@
 ---
 title: ทำไม่ต้อง Docker Compose คือ?
 date: 2016-08-30T23:15:29
-description:   ก่อนอื่นต้องแนะนำก่อนว่า Docker นั้น สาม
+description:   ก่อนอื่นต้องแนะนำก่อนว่า Docker นั้น สามารถใช้คำสั่ง docker run กับ docker build ได้ดีอยู่แล้ว ทำไมเราต้องใช้ Docker Compose คำตอบคงสั้นๆ เพราะมันสามารถรันหลาย Container ให้ทำงานพร้อมกันด้วยคำสั่งเด
 ---
 
 <img src="http://www.greanapp.com/wp-content/uploads/2016/08/Compose.png" alt="Compose" width="500" height="689" class="aligncenter size-full wp-image-789" />

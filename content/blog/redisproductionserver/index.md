@@ -1,7 +1,7 @@
 ---
 title: ตั้งค่า Redis สำหรับ Production Server
 date: 2016-08-02T02:52:26
-description:  หลายคนรู้จัก Redis บางคนไม่รู้จัก จริงๆ Redis ก็เปรียบเสมือน Database ประเภทหนึ่ง แต่เรามักเอามาใช้ในงาน เป็น Cache ซะส่วนใหญ่แต่จริงๆ นั้นถ้าเอามาใช้เ
+description:  หลายคนรู้จัก Redis บางคนไม่รู้จัก จริงๆ Redis ก็เปรียบเสมือน Database ประเภทหนึ่ง แต่เรามักเอามาใช้ในงาน เป็น Cache ซะส่วนใหญ่แต่จริงๆ นั้นถ้าเอามาใช้เป็น DB ก็ไม่ได้แปลกอะไรนะครับเพราะมันทำงานได้ดีเ
 ---
 
 <a href="http://www.greanapp.com/wp-content/uploads/2015/09/redis-300dpi.png"><img src="http://www.greanapp.com/wp-content/uploads/2015/09/redis-300dpi.png" alt="redis-300dpi" width="609" height="240" class="alignnone size-full wp-image-504" /></a> 

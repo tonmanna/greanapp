@@ -1,7 +1,7 @@
 ---
 title: ทบทวนบทเรียน Android Development กับ Nanodegree ที่ Udacity
 date: 2016-08-02T02:54:16
-description: Application แรก
+description: Application แรกเพื่อเป็นมารยาทที่ดีในการเข้าเรียนผมไม่ได้ I'm not allow share this video ออกมาให้ดูนะครับ only capture screen มาเฉยๆ คงไม่เสียมารยาทมากไป เขาให้ทำ App ตามรูปนี่แหละ Application แรก มี 
 ---
 
 Application แรก
