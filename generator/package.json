@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql": "github:mysqljs/mysql"
+    "dayjs": "^1.8.16",
+    "mysql": "github:mysqljs/mysql",
+    "nodemon": "^1.19.1",
+    "sanitize-html": "^1.20.1"
   }
 }
