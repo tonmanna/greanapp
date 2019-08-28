@@ -1,6 +1,6 @@
 ---
 title: DKIM (DomainKeys) กับ Mail Enable รุ่น Pro ขึ้นไปมั้ง
-date: 2016-08-02T03:03:36
+date: 2013-11-14T22:14:58
 description: ผมทดสอบกับ Windows 2012 R2 นะครับ ส่วนเรื่องราคาเจ้าตัว Mail Enable รุ่นที่ผมใช้ไม่มากไม่น้อย 699 US ผมว่ามันทำได้ตั้งแต่รุ่น Profressional นะครับ  ราคา 349 Us ใครที่ใช้ Mail Server บน Windows ยังไงผม
 ---
 

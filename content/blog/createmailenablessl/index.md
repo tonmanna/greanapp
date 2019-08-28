@@ -1,6 +1,6 @@
 ---
 title: ขั้นตอนการสร้าง Create Certificate เพื่อใช้ใน MailEnable สำหรับใช้งาน SMTPS , IMAPS
-date: 2017-06-12T20:17:34
+date: 2017-06-12T17:22:05
 description: เริ่มจากติดตั้ง OpenSSL ให้เรียบร้อย ที่สำคัญระวังเรื่องตำแหน่งไฟล์ openssl.cnf ดีๆ ในตัวอย่างนี้ เอาไปทำงานที่ Root \ Bin ของ Open SSL เลยไฟล์ openssl.cnf จึงต้องเป็น ..\share\openssl.cnf ตัวอย่างนี้
 ---
 

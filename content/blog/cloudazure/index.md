@@ -1,6 +1,6 @@
 ---
 title: Cloud Azure ลองใช้งานดู วันนี้น่าพอใจมากครับ South East Server
-date: 2016-08-02T03:04:07
+date: 2014-02-17T23:32:40
 description: วันนี้ลองปรับ Cloud Azure เป็น Medium ดูความแรง ได้ระดับน่าพอใจมากใครยังหา Cloud เพื่อตอบงาน IT ผมแนะนำครับแรงจริงอะไรจริงhttp#//www.speedtest.net/my-result/3312530790
 ---
 

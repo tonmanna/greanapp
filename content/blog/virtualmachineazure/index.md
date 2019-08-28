@@ -1,6 +1,6 @@
 ---
 title: สร้าง Virtual Machine Azure(Windows) โดยสร้างและทำให้สามารถใช้ Reserved IP Address (PowerShell Azure)
-date: 2016-08-02T03:05:26
+date: 2015-03-28T23:39:06
 description: ต่อจากสองตอนที่แล้วเรื่องการ Authen และการสร้าง Reserved เราก็มาสู่ขั้นตอนการสร้าง VM นะครับในตอนนี้จะเป็นการสร้าง VM ของ Windows 2012 R2 Datacenter เป็น Edition ที่ดีสุดในตอนนี้สำหรับ VM Windows 2012
 ---
 

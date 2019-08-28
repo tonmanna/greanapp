@@ -1,6 +1,6 @@
 ---
 title: ใครที่ประสบปัญหา Cannot find module '../build/Release/bson'
-date: 2016-08-02T03:07:12
+date: 2015-05-18T21:45:09
 description: สำหรับ mongoose และ component อื่นๆ บน NPMหลักๆ แล้วมันเกิด จาก node-gyp ต้องการใช้ MSBuild ซึ่งโดยปกติเครื่องของนักพัฒนามักจะมี MSBuild มาอยู่แล้วฤซึ่งมักจะมากับ Visual Studio ดังนั้น มันจะไม่เกิดปัญ
 ---
 

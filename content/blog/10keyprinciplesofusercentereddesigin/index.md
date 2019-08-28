@@ -1,6 +1,6 @@
 ---
 title: 10 Key principles of User Centered Desigin
-date: 2016-08-02T03:07:37
+date: 2015-06-29T17:34:36
 description: 1. Desigin for the users and their tasks ใช้สำหรับใครก็ต้องทำให้เหมาะกับคนนั้น2. Be consistent สอดคล้องกับการใช้งานให้เป็นไปได้มากที่สุด ทำให้เรียนรู้ไม่ยาก ใช้เวลาเรียนรู้น้อย3. Use simple and natura
 ---
 

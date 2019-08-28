@@ -1,6 +1,6 @@
 ---
 title: มาทดสอบการทำงาน Docker swarm ด้วย NodeJS
-date: 2016-07-29T18:00:57
+date: 2016-07-26T17:48:22
 description: หลายคนคงเคยได้ยืนชือเจ้า Docker Swarm มากันบ้างแล้วแต่ วันนี้ผมจะมายกตัวอย่างการใช้งาน Docker Swarm กับ ExpressJS ของ NodeJS โดยที่การทำงานเราจะเน้นไปที่การทดสอบการทำ Loadbalance ของ Docker Swarm โดย 
 ---
 

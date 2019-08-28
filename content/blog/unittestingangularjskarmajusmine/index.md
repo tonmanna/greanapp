@@ -1,6 +1,6 @@
 ---
 title: Unit Testing กับ AngularJS ด้วย Karma , Jusmine  ตอนที่ 1 เริ่มต้นใช้งาน
-date: 2016-08-02T02:52:44
+date: 2015-08-24T02:39:53
 description: หลังจากไปลองเรียน Android/IOS Development กับ Udacity ซะนานกลับมาเขียนบทความเกี่ยวกับการพัฒนา Web Application กันบ้างในตอนนี้ขอเขียนบทความเกี่ยวกับการทำ Unit Testing บน AngularJS โดย Framework ที่ใช้ใ
 ---
 

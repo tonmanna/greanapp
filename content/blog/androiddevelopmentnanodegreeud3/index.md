@@ -1,6 +1,6 @@
 ---
 title: ทบทวนบทเรียน Android Development กับ Nanodegree ที่ Udacity ตอนที่สี่
-date: 2016-08-02T02:56:26
+date: 2015-08-22T02:17:27
 description: หลังจากตอนที่สาม เราได้ทำการติดต่อ WebService เพื่อ HTTP/GET Data มาเก็บเป็น Stream จากนั้น Casting เป็น JSON เพื่อใช้ในการแสดงผล  เรามาดู Code กันก่อนใน Method onPostExcute ที่ทำหลังจากเหมือน AsyncTa
 ---
 

@@ -47,10 +47,10 @@ function folderName({ post_name, ID }) {
   return result
 }
 
-function createContent({ post_title, post_modified, post_content }) {
+function createContent({ post_title, post_date, post_content }) {
   return `---
 title: ${post_title}
-date: ${formatdate(post_modified)}
+date: ${formatdate(post_date)}
 description: ${descriptionFiltter(post_content, 100)}
 ---
 
@@ -80,12 +80,12 @@ function fillter(text) {
   return text
 }
 
-function formatdate(post_modified) {
+function formatdate(post_date) {
   //date: Tue Aug 05 2014 03:11:48 GMT+0700 (+07)
   // date: "2015-05-01T22:12:03.284Z"
 
-  console.log("post_modified: ", post_modified)
+  console.log("post_date: ", post_date)
 
-  return dayjs(post_modified).format("YYYY-MM-DDTHH:mm:ss")
+  return dayjs(post_date).format("YYYY-MM-DDTHH:mm:ss")
   // return dayjs(post_date,"DDD MMM DD YYYY HH:mm:ss").format("YYYY-MM-DDTHH:mm:ss")
 }

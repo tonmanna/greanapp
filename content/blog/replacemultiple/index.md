@@ -1,6 +1,6 @@
 ---
 title: วิธีการ Replace Multiple ไฟล์หลายไฟล์พร้อมกัน
-date: 2016-08-02T03:02:16
+date: 2014-08-04T12:22:54
 description: ตัวอย่างนี้จะหาคำว่าgrep -rl 'myservername' ./ | xargs sed -i 's/myservername/youservername/g'โดยใช้ Greap หาไฟล์ที่มี คำว่า myservername ประกอบ ใน curent pathxargs แก้ไขไฟล์ทั้งหมด จากคำว่า myservern
 ---
 

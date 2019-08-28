@@ -1,6 +1,6 @@
 ---
 title: ทบทวนบทเรียน Android Development กับ Nanodegree ที่ Udacity ตอนที่สาม
-date: 2016-08-02T02:56:03
+date: 2015-08-17T20:27:44
 description:   หลังจาก ตอนที่2 เราได้ทำการเขียน Mockup เพื่อสร้าง UI แบบง่ายๆ คราวนี้มีสู่ Lesson 2 ซึ่งเราจะเอาสภาพการพยากรอากาศของจริงจาก Webservice มาใช้กับ Application ที่เราออกแบบไว้1. ต้อง การ ติดต่อ Resful 
 ---
 

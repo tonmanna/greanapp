@@ -1,6 +1,6 @@
 ---
 title: Docker for DevOps Team. ใช้กับทีมพัฒนาได้ง่ายๆ ตอนที่ 2
-date: 2016-07-26T18:04:51
+date: 2016-04-28T15:30:26
 description: Docker for DevOpsหลังจาก ตอนแรก ที่เราใช้ Docker ไปกับ แบบ Command Line โดยรุ่นที่ผมใช้ตอนนี้คือ Docker version 1.11.0, build 4dc5990 ซึ่งเราจะทำให้มันเป็น Startup config ตอน Boot เครื่องจะได้ไม่ต้องม
 ---
 

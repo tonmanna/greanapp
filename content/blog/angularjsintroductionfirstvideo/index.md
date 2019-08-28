@@ -1,6 +1,6 @@
 ---
 title: AngularJS Introduction First Video
-date: 2016-08-02T03:01:54
+date: 2014-04-22T01:01:41
 description:  วีดีโอชุดเริ่มต้นกันกับ AngularJS 
 ---
 

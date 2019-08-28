@@ -1,6 +1,6 @@
 ---
 title: Docker for DevOps Team. ใช้กับทีมพัฒนาได้ง่ายๆ เส้นทางเดินนี้ โรยด้วย CommandLine LoL
-date: 2016-07-26T18:05:09
+date: 2016-04-25T18:57:32
 description: Docker for DevOps บทความนี้ เน้นการใช้งานในทีม DevOps แบบแชร์ Deamon และทำงานบน Ubuntu ไม่ได้ผ่าน Boot2Docker นะครับ ผมขอข้ามขั้นตอนการติดตั้งไปนะครับ ถ้าใครเพิ่งหัด Docker ให้ข้ามไปนะครับ วิธีติดตั้ง
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: สร้าง Redis Production/Development grade ด้วย Docker แบบขำๆ
-date: 2018-01-19T15:51:28
+date: 2018-01-19T14:43:24
 description:     พอดีวันก่อนได้มีเวลาไปทำ Redis ใช้งานบน Production เอามาเสียบแทน ASP.NET State Server เลยเอามาแปะให้ไปใช้กัน จริงๆ แล้ว Redis ถ้าใช้แบบ Development มันก็คงไม่ต้องไปทำอะไรมันมากนะ docker containner
 ---
 

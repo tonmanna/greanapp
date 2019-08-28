@@ -1,6 +1,6 @@
 ---
 title: สร้าง Virtual Machine Azure(Linux Ubuntu14.10) โดยสร้างและทำให้สามารถใช้ Reserved IP Address (PowerShell Azure)
-date: 2016-08-02T03:05:33
+date: 2015-03-31T02:47:50
 description: สคริปด้านล่างนี้สำหรับ Ubuntu รุ่นล่าสุดตอนนี้นะครับคำสั่งไม่ต่างกับ Windows นัก ใครงง แต่ละบรรทัดไปดูบทความที่แล้วได้เลยนะครับ เพราะต่างกันแค่ตรง ProvisioningConfig แค่นะครับ$serviceNamew = "cloudser
 ---
 

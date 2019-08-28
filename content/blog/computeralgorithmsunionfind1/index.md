@@ -1,6 +1,6 @@
 ---
 title: Computer Algorithms Union Find (ตอนที่ 1)
-date: 2016-08-02T03:00:03
+date: 2015-07-24T23:48:41
 description: ในบทความเกี่ยวกับ Union Find นี้จะใช้ C# ในการแสดงผลลัพธ์ โดยในตอนนี้เราจะใช้สร้าง Method Union / Connected? โดยใช้ Class connection ช่วยในการจัดเก็บการเชื่อมต่อ ซึ่งง่ายและสะดวกดี เพราะ มันสามารถ เก็
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Async Task เอามาจากที่ไหนจำไม่ได้แล้ว
-date: 2016-08-02T03:01:43
+date: 2014-02-25T18:23:48
 description: Async Featureใน Async นั้นมี keyword 2 ตัวที่เพิ่มเข้ามา คือ async (modifier) และ await (operator) โดย method ที่มีการใส่ async กำกับไว้ จะเรียกว่า async method ในการเขียนโปรแกรมแนว asynchronous นั้น 
 ---
 

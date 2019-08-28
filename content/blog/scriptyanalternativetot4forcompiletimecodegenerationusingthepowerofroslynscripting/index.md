@@ -1,6 +1,6 @@
 ---
 title: มาสร้าง Automation Script แบบง่ายๆ กันด้วย Scripty
-date: 2016-08-02T02:51:02
+date: 2016-08-02T02:41:17
 description: Scripty An alternative to T4 for compile-time code generation using the power of Roslyn scripting http#//daveaglick.com/posts/announcing-scriptyusing Microsoft.CodeAnalysis;using System.Collections.Ge
 ---
 

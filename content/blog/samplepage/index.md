@@ -1,6 +1,6 @@
 ---
 title: AngularJS Lab 1-15
-date: 2015-08-24T06:56:34
+date: 2013-11-06T10:10:28
 description: เปิด Section ใหม่นะครับ ใครอยากศึกษา AngularJS ลองไปทำ Lab ศึกษาดูนะครับผมเตรียมไว้ 15 LAB ครับ http#//angularjs.greanapp.com
 ---
 
