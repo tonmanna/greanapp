@@ -8,7 +8,8 @@ var connection = mysql.createConnection({
   user: "root",
   password: "password",
   database: "greanapp",
-  ssl: false
+  ssl: false,
+  debug: true
 })
 connection.connect(err => {
   connection.query(
@@ -17,8 +18,9 @@ connection.connect(err => {
       if (err) {
       } else {
         results.map(result => {
-          let dirname = "../content/blog/" + decodeURI(result.post_name)
-          // fs.mkdirSync(dirname)
+          let dirname = folderName(result)
+
+          fs.mkdirSync(dirname)
           let filename = dirname + "/index.md"
           var content = createContent(result)
           fs.writeFileSync(filename, content)
@@ -28,6 +30,24 @@ connection.connect(err => {
     }
   )
 })
+
+function folderName({ post_name, ID }) {
+  var result = decodeURI(post_name).match(/[a-zA-Z0-9]+/g)  
+  var pathPrefix = "../content/blog/";
+  if(result!=null){
+    result = result.join("")
+    var path = pathPrefix + result;
+    if(fs.existsSync(path) && result != undefined){
+      result = path + ID;
+    }else{
+      result = path;
+    }
+  }else{
+    result = pathPrefix + "P" + ID;
+  }
+  return result;
+  
+}
 
 function createContent({ post_title, post_modified, post_content }) {
   return `---
@@ -69,7 +89,7 @@ function formatdate(post_modified) {
   //date: Tue Aug 05 2014 03:11:48 GMT+0700 (+07)
   // date: "2015-05-01T22:12:03.284Z"
 
-  console.log('post_modified: ', post_modified);
+  console.log("post_modified: ", post_modified)
 
   return dayjs(post_modified).format("YYYY-MM-DDTHH:mm:ss")
   // return dayjs(post_date,"DDD MMM DD YYYY HH:mm:ss").format("YYYY-MM-DDTHH:mm:ss")

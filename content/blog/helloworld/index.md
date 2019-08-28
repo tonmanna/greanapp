@@ -1,22 +1,20 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: Hello world! สวัสดีตามทำเนียม
+date: 2016-08-02T03:06:58
+description: วันนี้นึกสนุกอยากจะบันทึก อะไรที่ทำแต่ละวันไว้ เอาไว้ว่างๆ กลับมาดูแบ่งปันกับทุกคน ทั้งเรื่อง  Network และ Programming ยินดีและหวังว่าจะมีแรงเขียนอย่างนี้ทุกสัปดาห์นะครับ+++ Worawut Boontan (Tonman)
+
 ---
 
-This is my first post on my new fake blog! How exciting!
+วันนี้นึกสนุกอยากจะบันทึก อะไรที่ทำแต่ละวันไว้ เอาไว้ว่างๆ กลับมาดูแบ่งปันกับทุกคน ทั้งเรื่อง  Network และ Programming ยินดีและหวังว่าจะมีแรงเขียนอย่างนี้ทุกสัปดาห์นะครับ
 
-I'm sure I'll write a lot more interesting things in the future.
++++ Worawut Boontan (Tonman)
+วรวุฒิ บุญตัน
+<a title="Grean App Fanpage" href="http://facebook.com/greanapp.com">http://www.facebook.com/greanapp</a>
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+<strong>ผู้ก่อตั้ง iTopPlus </strong>
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+http://www.itopplus.com
 
-![Chinese Salty Egg](./salty_egg.jpg)
+tonmanna@gmail.com
+
+&nbsp;
